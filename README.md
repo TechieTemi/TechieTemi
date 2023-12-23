@@ -1,7 +1,7 @@
 [![MasterHead](https://gifdb.com/coding)](https://techietemi.io)
 <h1 align="center">Hi 👋, I'm Dorcas Temitope Temitope</h1>
 <h3 align="center">I'm currently a student at alx Africa, majoring in Software Engineering and to become a backend developer</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/15215756-Coding-Animation-Concept/attachments/6961320?mode=media">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techietemi&label=Profile%20views&color=0e75b6&style=flat" alt="techietemi" /> </p>
 
